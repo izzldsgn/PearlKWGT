@@ -36,7 +36,7 @@
     -       TransparentTheme.SplashScreen
     -       AmoledTheme.SplashScreen
     -->
-    <style name="MySplashScreen" parent="LightTheme.SplashScreen" />
+    <style name="MySplashScreen" parent="DarkTheme.SplashScreen" />
 
     <!--    Define the default app theme
     -       0 -> Light
@@ -46,7 +46,7 @@
     -       4 -> Auto Light-Dark
     -       5 -> Auto Light-Amoled
     -->
-    <integer name="default_theme">0</integer>
+    <integer name="default_theme">1</integer>
 
     <!--    Choose whether you want colored tiles by default -->
     <bool name="enable_colored_tiles">true</bool>

@@ -33,10 +33,10 @@
 
     <!-- Dark Theme -->
     <color name="dark_theme_primary_dark">#111111</color>
-    <color name="dark_theme_primary">#1d1d1d</color>
+    <color name="dark_theme_primary">#111111</color>
     <color name="dark_theme_accent">#5471f1</color>
-    <color name="dark_theme_background">#111111</color>
-    <color name="dark_theme_card_background">#1d1d1d</color>
+    <color name="dark_theme_background">#1d1d1d</color>
+    <color name="dark_theme_card_background">#111111</color>
     <color name="dark_theme_snackbar">@color/dark_theme_card_background</color>
     <color name="dark_theme_dialogs_button_color">@color/dark_theme_accent</color>
     <color name="splash_dark_status_bar">@color/dark_theme_primary_dark</color>

@@ -16,8 +16,8 @@
   -->
 <resources>
     <version title="v1.0.0" />
-    <item text="Initial Changelog" />
-    <item text="Bullet point here" />
-    <item text="More points" />
+    <item text="Initial Release" />
+    <item text="Add 22 Widget" />
+    <item text="Add 8 Wallapers" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

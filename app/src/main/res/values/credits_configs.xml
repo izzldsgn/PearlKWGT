@@ -14,29 +14,29 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<resources xmlns:tools="http://schemas.android.com/tools"xmlns:android="http://schemas.android.com/apk/res/android" tools:ignore="MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://lh3.googleusercontent.com/a-/AAuE7mDh-5WYOH-SeFDBeuA6xMYVm5SgCtprmn7rVITI=s192</item>
+        <item>https://lh3.googleusercontent.com/a-/AAuE7mCdO2BtRmSZodLdXIeFzTkVTfsCHs2l8xMTelymxA=s192</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>Indra Juliana (IZZLDSGN)</item>
+        <item>M Putera Pamungkas</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>Designer</item>
+        <item>Team</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
+        <item>Facebook|Instagram</item>
         <item>Facebook|Website|Twitter</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
+        <item>https://www.facebook.com/indra.juliana20|http://instagram.com/indrajln</item>
         <item>https://facebook.com/|https://www.jahirfiquitiva.me/|https://twitter.com/jahirfiquitiva</item>
     </string-array>
 </resources>
